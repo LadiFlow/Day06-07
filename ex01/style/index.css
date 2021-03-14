@@ -1,0 +1,35 @@
+h1 {
+color: red;
+text-align: center;
+}
+
+h2 {
+color: blue;
+font-size: small;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .img-container {
+    float: left;
+    width: 400px;
+    padding: 50px;
+  }
+  
+  .kartica {
+
+    content: "";
+    clear: both;
+    display: table;
+    text-align: justify;
+    width: [width of img];
+  }
+
+  p {
+    text-align: justify;
+    width: [width of img];
+    font-size: small;
+  }
+ 
